@@ -1,4 +1,4 @@
-# Hey there! 🙋‍♂️
+# Hi!
 
 I'm **Nick**, a backend developer based in Poland.
 
