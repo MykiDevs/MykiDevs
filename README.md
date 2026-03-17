@@ -6,7 +6,7 @@ I build and scale microservices, focusing on clean architecture and high code qu
 
 If there's a complex logic puzzle or a database bottleneck, chances are I'll dive deep to solve it.
 
-My main tech stack is **Java (17/25), Spring Boot, PostgreSQL, and Apache Kafka**. My favorite tools are IntelliJ IDEA, Docker, and Postman.
+My main tech stack is **Java, Spring Boot, PostgreSQL, and Apache Kafka**. My favorite tools are IntelliJ IDEA, Docker, and Postman.
 
 I've been working on projects for the Logistics and Fintech sectors, ensuring everything runs smoothly with 75%+ test coverage.
 
