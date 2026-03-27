@@ -10,5 +10,5 @@ My main tech stack is **Java, Spring Boot, PostgreSQL, and Apache Kafka**. I als
 
 I've been working on projects for the Logistics and Fintech sectors, ensuring everything runs smoothly with 75%+ test coverage.
 
-If you want to chat about tech or potential collaboration, find me on [LinkedIn](https://www.linkedin.com/in/nick-kokhan-b81317386) or drop me an [email](mailto:mikitakokhan6@gmail.com)!
+If you want to chat about tech or potential collaboration, find me on [LinkedIn](https://www.linkedin.com/in/nick-kokhan-b81317386) or drop me an [email](mailto:mikitakohan6@gmail.com)!
 
